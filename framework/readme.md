@@ -1,0 +1,4 @@
+- core:框架核心类目录
+- databases:数据库驱动类目录
+- helpers:辅助函数类目录
+- libraries:类库目录

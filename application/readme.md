@@ -1,0 +1,4 @@
+- config:目录配置文件
+- controllers:控制器
+- models:数据库模型
+- views:视图
